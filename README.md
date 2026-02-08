@@ -32,38 +32,41 @@ Student Module
 Project Structure
 IP_Project_TW
 │
-├── src/main/java
-│   ├── logic
-│   │   └── IdLogic.java
-│   │
-│   ├── login_logout
-│   │   ├── LoginServlet.java
-│   │   └── LogoutServlet.java
-│   │
-│   ├── model
-│   │   └── IdDetails.java
-│   │
-│   ├── servlet
-│   │   ├── IdCardServlet.java
-│   │   └── StudentDashboardServlet.java
-│   │
-│   └── util
-│       └── DBConnect.java
-│
-├── src/main/webapp
-│   ├── login.jsp
-│   ├── adminDashboard.jsp
-│   ├── studentDashboard.jsp
-│   ├── addDetails.jsp
-│   ├── updateDetails.jsp
-│   ├── viewDetails.jsp
-│   ├── META-INF
-│   └── WEB-INF
+├── src
+│   └── main
+│       ├── java
+│       │   ├── logic
+│       │   │   └── IdLogic.java
+│       │   │
+│       │   ├── login_logout
+│       │   │   ├── LoginServlet.java
+│       │   │   └── LogoutServlet.java
+│       │   │
+│       │   ├── model
+│       │   │   └── IdDetails.java
+│       │   │
+│       │   ├── servlet
+│       │   │   ├── IdCardServlet.java
+│       │   │   └── StudentDashboardServlet.java
+│       │   │
+│       │   └── util
+│       │       └── DBConnect.java
+│       │
+│       └── webapp
+│           ├── login.jsp
+│           ├── adminDashboard.jsp
+│           ├── studentDashboard.jsp
+│           ├── addDetails.jsp
+│           ├── updateDetails.jsp
+│           ├── viewDetails.jsp
+│           ├── META-INF
+│           └── WEB-INF
 │
 ├── Mysql code.sql
 ├── java web Project structure.jpeg
 ├── File Structure of java web project.png
 └── README.md
+
 
 Technologies Used
 - Java (JDK 8+)
