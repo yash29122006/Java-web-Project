@@ -132,6 +132,6 @@ Learning Outcomes
 4. Clean JSP UI design
 5. Real-world project structuring
 
-👤 Author
+Developer
 Yashkumar Motilal Gupta
-Java | JSP | Servlets | MySQL
+Java | JSP | Servlets | MySQL 
